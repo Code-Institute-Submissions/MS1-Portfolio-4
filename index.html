@@ -10,43 +10,92 @@
 	<!-- style.css -->
 	<link rel="stylesheet" type="text/css" href="assets/css/style.css"/>
 
-  <title>Portfolio</title>
+  <title>Home</title>
 </head>
+    <body>
     <header>
     <div class="container-fluid">
 		<div class="row">
 			<div class="col-md-12 navbar">
-            <div class="logo"><a href="index.html"><img src="assets/images/logo.png" alt=""></a></div>
+            <div class="logo"><a href="index.html"><img src="assets/images/rsz_3logo.png" alt=""></a></div>
 				<a href="index.html" class="navbar-brand"></a>
 				<ul class="nav">
 					<li class="nav-item active"><a href="index.html" class="nav-link">Home</a></li>
 					<li class="nav-item"><a href="about.html" class="nav-link">About</a></li>
-					<li class="nav-item"><a href="portfolio.html" class="nav-link">Portfolio</a></li>
 					<li class="nav-item"><a href="#" class="nav-link">Contact</a></li>
 				</ul>
 			</div>
 		</div>
     </div>   
     </header>
-    <div class="portfolio">
-		<div class="container-fluid">						
-	        <div class="col-xs-12 col-sm-12 col-md-12">	
-			        <img width="1320" height="560" src="assets/images/semaforo/01a.jpg" class="img-fluid" alt="Responsive image">	
-    	     </div>   		
-	         <div class="col-xs-12 col-sm-12 col-md-12">	
-					<img width="1320" height="560" src="assets/images/semaforo/02a.jpg" class="img-fluid" alt="Responsive image">
-			 </div>                            		
-	            <div class="col-xs-12 col-sm-12 col-md-12">	
-					<img width="1320" height="560" src="assets/images/semaforo/05a.jpg" class="img-fluid" alt="Responsive image">
-				</div>                            				
-	        	<div class="col-xs-12 col-sm-12 col-md-12">	
-					<img width="1320" height="560" src="assets/images/semaforo/03a.jpg" class="img-fluid" alt="Responsive image">
-				</div>                            
-	            <div class="col-xs-12 col-sm-12 col-md-12">	
-					<img width="1320" height="560" src="assets/images/semaforo/04a.jpg" class="img-fluid" alt="Responsive image">
-				</div>                            	
-    	    </div>
-        </div>		
+    
+    <section id="portfolio" class="info-box">
+    <div class="container-fluid">
+        <ul class="portfolio-filter list-inline text-center">
+             <li><a class="active">Portfolio</a></li>
+        </ul>
+        <ul class="row portfolio list-unstyled lightbox shuffle" id="grid" style="position: relative;">
+            <!-- project -->
+            <li class="col-xs-6 col-md-6 project filtered">
+                <div class="img-bg-color primary">
+                    <a href="project.html" class="project-link">
+                    <!-- / project-link -->
+                    <img src="assets/images/medalla/02.jpg" class="img-fluid" alt="Responsive image"></a>
+          	     <!-- project-details -->
+                    <div class="project-details">
+                        <h5 class="project-title">Medalla</h5>
+                        <p class="skill">2018</p>
+                    </div><!-- / project-details -->
+                </div><!-- / img-bg-color -->
+            </li>
+        
+            <!-- / project -->
+
+            <!-- project -->
+            <li class="col-xs-6 col-md-6 project filtered">
+                <div class="img-bg-color primary">
+                    <a href="single-project.html" class="project-link"></a>
+                    <!-- / project-link -->
+                    <img src="assets/images/zapatilla/05.jpg" class="img-fluid" alt="Responsive image">
+          	     <!-- project-details -->
+                    <div class="project-details">
+                        <h5 class="project-title">Medalla</h5>
+                        <p class="skill">2018</p>
+                    </div><!-- / project-details -->
+                </div><!-- / img-bg-color -->
+            </li>
+            <!-- / project -->
+            <!-- project -->
+            <li class="col-xs-6 col-md-6 project filtered">
+                <div class="img-bg-color primary">
+                    <a href="single-project.html" class="project-link"></a>
+                    <!-- / project-link -->
+                    <img src="assets/images/semaforo/03a.jpg" class="img-fluid" alt="Responsive image">
+          	     <!-- project-details -->
+                    <div class="project-details">
+                        <h5 class="project-title">Medalla</h5>
+                        <p class="skill">2018</p>
+                    </div><!-- / project-details -->
+                </div><!-- / img-bg-color -->
+            </li>
+            <!-- / project -->
+            <!-- project -->
+            <li class="col-xs-6 col-md-6 project filtered">
+                <div class="img-bg-color primary">
+                    <a href="single-project.html" class="project-link"></a>
+                    <!-- / project-link -->
+                    <img src="assets/images/medalla/02.jpg" class="img-fluid" alt="Responsive image">
+          	     <!-- project-details -->
+                    <div class="project-details">
+                        <h5 class="project-title">Medalla</h5>
+                        <p class="skill">2018</p>
+                    </div><!-- / project-details -->
+                </div><!-- / img-bg-color -->
+            </li>
+            </ul>
+    </div>
+            <!-- / project -->
+</section>
 	<!-- footer -->
     <footer>
         <div class="container">
@@ -59,5 +108,5 @@
                 </p>
         </div>
     </footer>
-        
+    </body>        
 </html>
