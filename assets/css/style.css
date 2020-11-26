@@ -90,12 +90,17 @@ ul {
 
 }
 
+/*hover*/
+
+
+
+
 /*footer*/
 
 footer{
 background-color: #d9d9d9;
 min-height: 80px;
-font-size: 14px;
+font-size: 12px;
 font-weight: 400;
 margin-bottom: 0;
 color: rgb(136, 123, 123);
@@ -108,4 +113,53 @@ color: rgb(136, 123, 123);
  height: 32px;
  padding: 3px;
     
+}
+
+/* Contact Form*/
+
+textarea {
+	resize: none;
+}
+.form-label {
+	font-size: 12px;
+	color: rgb(136, 123, 123);
+	margin: 0;
+	display: block;
+	opacity: 1;
+	-webkit-transition: .333s ease top, .333s ease opacity;
+	transition: .333s ease top, .333s ease opacity;
+}
+.form-control {
+	border-radius: 0;
+	border-color: #ccc;
+   	border-width: 0 0 2px 0;
+   	border-style: none none solid none;
+   	box-shadow: none;
+}
+.form-control:focus {
+	box-shadow: none;
+	border-color: rgb(136, 123, 123);
+}
+.js-hide-label {
+	opacity: 0; 	
+}
+.js-unhighlight-label {
+	color: #999 
+}
+.btn-start-order {
+	background: 0 0 #ffffff;
+    border: 1px solid #2f323a;
+    border-radius: 3px;
+    color: #2f323a;
+    font-family: "Raleway", sans-serif;
+    font-size: 16px;
+    line-height: inherit;
+    margin: 30px 0;
+    padding: 10px 50px;
+    text-transform: uppercase;
+    transition: all 0.25s ease 0s;
+}
+.btn-start-order:hover,.btn-start-order:active, .btn-start-order:focus {
+	border-color: rgb(136, 123, 123);
+	color: rgb(136, 123, 123);
 }
