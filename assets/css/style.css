@@ -89,11 +89,58 @@ ul {
     padding: 0;
 
 }
+.home-img{
+padding-bottom: 25px;
 
-/*hover*/
+}
+/*hover effect home*
 
+.wrapper{
+    font-family: 'Poppins',sans-serif;
+    width: 70px;
+    margin: 0 auto;
+    left: 55%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
 
+}
 
+img{
+
+    display: block;
+    width: 80%;
+    height: auto;
+
+}
+
+.content{
+    position:absolute;
+    top: 45%;
+    left: 50%;
+     transform: translate(-50%, -50%);
+     color: #ffffff;
+     font-size: 28px;
+
+}
+
+.overlay{
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    height: 100%;
+    width: 80%;
+    opacity: 0;
+    transition: .5 ease;
+    background: black;
+
+}
+
+.wrapper :hover .overlay{
+    opacity: 1
+}
 
 /*footer*/
 
@@ -102,7 +149,6 @@ background-color: #d9d9d9;
 min-height: 80px;
 font-size: 12px;
 font-weight: 400;
-margin-bottom: 0;
 color: rgb(136, 123, 123);
 }
 
@@ -201,3 +247,6 @@ h4{
 .justify-content-center{
  padding: 5px;
 }
+.last-img{
+margin-bottom: 40px;
+ }
