@@ -89,7 +89,6 @@ padding-top: 25px;
 
 .text {
    
-  font-size: 20px;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -97,6 +96,7 @@ padding-top: 25px;
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
   text-align: center;
+  
 }
 
 .text a {
@@ -106,6 +106,8 @@ padding-top: 25px;
 .text  span{
       color: white;
       top: 10px;
+      
+      
 }
 
 
@@ -187,6 +189,13 @@ padding-bottom: 50px;
     text-align: center;
     padding-bottom: 10px;
     padding-top: 10px;
+    font-size: 17px;
+   
+
+}
+
+.row .col-sm-4 p{
+    font-size: 13px;
 
 }
 
