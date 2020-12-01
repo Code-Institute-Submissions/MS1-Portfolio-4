@@ -1,7 +1,10 @@
 /*google font*/
 @import url('https://fonts.googleapis.com/css?family=Poppins:400,700,800,900&display=swap');
 
+
+
 body{
+   
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
@@ -83,7 +86,7 @@ padding-top: 25px;
     margin-top: 25px;
 }
 
-.row .container:hover .overlay {
+.row .container-fluid:hover .overlay {
   opacity: 1;
 }
 
@@ -228,3 +231,4 @@ color: rgb(136, 123, 123);
  padding: 3px;
     
 }
+
