@@ -43,15 +43,17 @@ The idea of this project was to create a website of an industrial Designer based
 #### Wireframes
 
 Home Page<br>
-![Home Page Wireframe](assets/wireframes/home-wireframe.JPG)<br>
-Home  Page<br>
-![Project Page Wireframe](assets/wireframes/about-wireframe.JPG)<br>
+![Home Page Wireframe](assets/images/Wireframes/Home.jpg)<br>
+Works  Page<br>
+![Project Page Wireframe](assets/images/Wireframes/Works.jpg)<br>
 Project Page<br>
-![Works Page Wireframe](assets/wireframes/events-wireframe.jpg)<br>
-Works Page<br>
-![Works Page Wireframe](assets/wireframes/gallery-wireframe.JPG)<br>
+![Works Page Wireframe](assets/images/Wireframes/Project.jpg)<br>
+Project - Mobile Page<br>
+![Works Page Wireframe](assets/images/Wireframes/Project-Mobile.jpg)<br>
 Contact Page<br>
-![Contact Page Wireframe](assets/wireframes/contact-wireframe.JPG)<br>
+![Contact Page Wireframe](assets/images/Wireframes/Contact.jpg)<br>
+Contact - Mobile Page<br>
+![Contact Page Wireframe](assets/images/Wireframes/Contact-Mobile.jpg)<br>
 
 #### Modifications to original Design
 In the original design, what is now the “Home” section was the “About” section and  what is now the “works” section was the “home” section, but after evaluating some user experiences I realize the purpose of the website was not clear so I decided to change it. I did not change the Mockups because I consider them part of the original design, and I think every design changes according to needs.
