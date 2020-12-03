@@ -17,23 +17,26 @@ Live Demo [here]( https://federvgh.github.io/MS1-Portfolio/index.html).
 
 The idea of this project was to create a website of an industrial Designer based on Milan. The site shows the designer's portfolio along with information about him, and a contact form. 
 
+## Ux
+
 -   ### User stories
 
     -   #### First Time Visitor
 
         1. As a First Time Visitor, I want to understand this is a portfolio of an industrial designer.        
-	2. I want to easily navigate through the website and find information about the designer and showcase of his work.
+    	2. I want to easily navigate through the website and find information about the designer and showcase of his work.
 
 	-   #### Returning Visitor
-	  1. As a returning visitor I would like to find a way of contacting him if I’m interested in working with him. 
--   #### Frequent Visitor
-	 1. As a frequent visitor I would like to follow him on social networks.
+	     As a returning visitor I would like to find a way of contacting him if I’m interested in working with him. 
+        
+    -   #### Frequent Visitor
+	     As a frequent visitor I would like to follow him on social networks.
 
 
--   ### Design
+    -   ### Design
     -   The Design was minimalistic, small letters and grey colours, this was done with the idea of making the images stand out from the background.
    
- -   #### Typography
+    -   #### Typography
         -   The poppins font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly.
 
     -   #### Imagery
@@ -45,15 +48,11 @@ The idea of this project was to create a website of an industrial Designer based
 Home Page<br>
 ![Home Page Wireframe](assets/images/Wireframes/Home.jpg)<br>
 Works  Page<br>
-![Project Page Wireframe](assets/images/Wireframes/Works.jpg)<br>
+![Works Page Wireframe](assets/images/Wireframes/Works.jpg)<br>
 Project Page<br>
-![Works Page Wireframe](assets/images/Wireframes/Project.jpg)<br>
-Project - Mobile Page<br>
-![Works Page Wireframe](assets/images/Wireframes/Project-Mobile.jpg)<br>
+![Project Page Wireframe](assets/images/Wireframes/project1.jpg)<br>
 Contact Page<br>
-![Contact Page Wireframe](assets/images/Wireframes/Contact.jpg)<br>
-Contact - Mobile Page<br>
-![Contact Page Wireframe](assets/images/Wireframes/Contact-Mobile.jpg)<br>
+![Contact Page Wireframe](assets/images/Wireframes/contact1.jpg)<br>
 
 #### Modifications to original Design
 In the original design, what is now the “Home” section was the “About” section and  what is now the “works” section was the “home” section, but after evaluating some user experiences I realize the purpose of the website was not clear so I decided to change it. I did not change the Mockups because I consider them part of the original design, and I think every design changes according to needs.
@@ -103,17 +102,18 @@ I used W3C Markup Validator and W3C CSS Validator Services to ensure there were 
 
 1.	As a First Time Visitor, I want to easily understand the main purpose of the site.
 
- 2. Upon entering the site, users can see a photo of the designer along with a phrase which represents his work philosophy. Below the photo you can find details about the designer like work experience, education and awards that make it clear he is an industrial designer.
+2. Upon entering the site, users can see a photo of the designer along with a phrase which represents his work philosophy. Below the photo you can find details about the designer like work experience, education and awards that make it clear he is an industrial designer.
 
 3.	On the bottom there is an image with logos of the software the designer has experience using, the logo are easily recognised by fellow designers.
 
 
- 2. As a First Time Visitor, I want to be able to easily be able to navigate throughout the site to find content.
+4. As a First Time Visitor, I want to be able to easily be able to navigate throughout the site to find content.
 
-1.	The landing site has been designed to be simple and give an introduction of the designer. At the top of the page there is a navigation bar, each link describes where it will lead you clearly.
+5.	The landing site has been designed to be simple and give an introduction of the designer. At the top of the page there is a navigation bar, each link describes where it will lead you clearly.
 
-2.	Once you go to the work section you can find the different projects, if you hover over the projects you can see a description with the title highlighted making it easy to click, which will take you to the site of that specific project, and you will be able to see more images and get more information about it.
-	3. The user can also scroll to the bottom of any page on the site    to locate  social media links in the footer.
+6.	Once you go to the work section you can find the different projects, if you hover over the projects you can see a description with the title highlighted making it easy to click, which will take you to the site of that specific project, and you will be able to see more images and get more information about it.
+
+7. The user can also scroll to the bottom of any page on the site    to locate  social media links in the footer.
 
 
 
@@ -139,7 +139,7 @@ The project was deployed to GitHub with the following steps:
 ## Credits
 
 -   The Contact form was copied from Stefan Rusu – codepen
--   The Hover effect over the images was taken from https://www.w3schools.com
+-   The Hover effect on the images was taken from https://www.w3schools.com
 -   I took inspiration and ideas from this websites https://kingstudio.ro/demos/mnml/index6.html and https://www.marioferrarini.com/  
 -   All content in the "works"  "Home" and “Project” sections were written by me.
 -   All images were created and provided by Juan Pablo Tazzioli.
