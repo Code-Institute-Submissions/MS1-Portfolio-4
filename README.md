@@ -75,21 +75,21 @@ In the original design, what is now the “Home” section was the “About” s
 ### Frameworks, Libraries & Programs Used
 
 1. Bootstrap
-Bootstrap was used to for the grid system and to help with the responsiveness for all devices. 
+- Bootstrap was used to for the grid system and to help with the responsiveness for all devices. 
 2. Fontawesome
-Fontawesome was used for the social media icons 
+- Fontawesome was used for the social media icons 
 3. Google Fonts
-Google Font was used to import the Poppins font through the entire website
+- Google Font was used to import the Poppins font through the entire website
 4. Github
-Github was used to store the code pushed through Gitpod
+- Github was used to store the code pushed through Gitpod
 5. Gitpod
-Gitpod was the  Integrated Development Environment used to develop the Website.
+- Gitpod was the  Integrated Development Environment used to develop the Website.
 6. Balsamiq
-Balsamiq was used to create the wireframes during the design process.
+- Balsamiq was used to create the wireframes during the design process.
 7. Picresize
-Picresize was used to reduce and resize images.
+- Picresize was used to reduce and resize images.
 8. Chrome Devops Tools	
-Chrome Devops Tools was used to check elements and help debug issues with the site layout and try different CSS styles.
+- Chrome Devops Tools was used to check elements and help debug issues with the site layout and try different CSS styles.
 
 ## Testing
 
@@ -108,10 +108,9 @@ I used W3C Markup Validator and W3C CSS Validator Services to ensure there were 
 
 3.	On the bottom there is an image with logos of the software the designer has experience using, the logo are easily recognised by fellow designers.
 
+4. As a First Time Visitor, I want to easily be able to navigate throughout the site to find content.
 
-4. As a First Time Visitor, I want to be able to easily be able to navigate throughout the site to find content.
-
-5.	The landing site has been designed to be simple and give an introduction of the designer. At the top of the page there is a navigation bar, each link describes where it will lead you clearly.
+5.	The landing site has been designed to be simple and give an introduction of the designer. At the top of the page there is a navigation bar, each link describes where it will lead you.
 
 6.	Once you go to the work section you can find the different projects, if you hover over the projects you can see a description with the title highlighted making it easy to click, which will take you to the site of that specific project, and you will be able to see more images and get more information about it.
 
@@ -135,8 +134,11 @@ The project was deployed to GitHub with the following steps:
 3. Select settings and Scroll down until you locate the "GitHub Pages" Section.
 4. Under "Source", click the dropdown called "None" and select "Master Branch".
 5. The page will automatically refresh.
-6. Scroll back down through the page to locate the now published site [link](https://github.com) in the "GitHub Pages" section.
+6. Scroll back down through the page to locate the now published site [link](https://federvgh.github.io/MS1-Portfolio/index.html) in the "GitHub Pages" section.
 
+## Bugs and Solutions
+
+1. 
 
 ## Credits
 
