@@ -275,13 +275,13 @@ color: rgb(136, 123, 123);
 }
 
 
-@media screen and (min-width: 1000px) {
+@media screen and (min-width: 1370px) {
 .portfolio-project p {
         padding-left: 65px;
         padding-right: 65px;
     }
 }
-@media screen and (min-width: 1000px) {
+@media screen and (min-width: 1370px) {
 .portfolio-project h4 {
         padding-left: 72px;
         padding-right: 65px;
