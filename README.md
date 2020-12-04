@@ -93,10 +93,10 @@ In the original design, what is now the “Home” section was the “About” s
 
 ## Testing
 
-I used W3C Markup Validator and W3C CSS Validator Services to ensure there were no syntax errors in the project.
+I used W3C HTML Validator and W3C CSS Validator Services to ensure there were no syntax errors in the project.
 
--   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
--   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
+-   [W3C HTML Validation](https://validator.w3.org/) 
+-   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) 
 
 ### Testing User Stories from User Experience (UX) Section
 
@@ -114,9 +114,9 @@ I used W3C Markup Validator and W3C CSS Validator Services to ensure there were 
 
 6.	Once you go to the work section you can find the different projects, if you hover over the projects you can see a description with the title highlighted making it easy to click, which will take you to the site of that specific project, and you will be able to see more images and get more information about it.
 
-7. The user can also scroll to the bottom of any page on the site    to locate  social media links in the footer.
+7. The user can also scroll to the bottom of any page on the site to locate  social media links in the footer.
 
-
+8. Contact form wont allow you to send a message if all the fields are proerply filled.
 
 ### Further Testing
 
@@ -138,7 +138,10 @@ The project was deployed to GitHub with the following steps:
 
 ## Bugs and Solutions
 
-1. 
+1. I had issues with images on small and large devices, i addressed this issue using @media on my css, targeting the images and text 
+that did not adapt properly.
+2. Some images took to long to load so i had to reduce the size of the file
+3. 
 
 ## Credits
 
