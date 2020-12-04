@@ -11,15 +11,15 @@ Live Demo [here]( https://federvgh.github.io/MS1-Portfolio/index.html).
 > - [Features](#features)
 > - [Technologies Used](#technologies-used)
 > - [Testing](#testing)
-> - [Bugs and Solutions](#Project-bugs-and-solutions)
 > - [Deployment](#deployment)
+> - [Bugs and Solutions](#Bugs-and-Solutions)
 > - [Credits](#credits)
 
 ## Overview
 
 The idea of this project was to create a website of an industrial Designer based on Milan. The site shows the designer's portfolio along with information about him, and a contact form. 
 
-## Ux
+## UX
 
 -   ### User stories
 
