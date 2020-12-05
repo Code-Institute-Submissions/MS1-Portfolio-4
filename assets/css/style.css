@@ -264,11 +264,10 @@ color: rgb(136, 123, 123);
 
 
 
-/*
-@media screen and (min-width: 1600px) {
+
+@media screen and (min-width: 200px) {
 .justify-content-center {
-        padding-left: 2px;
-        padding-right: 5px;
+       padding-left: 600px;
     }
 }
 
