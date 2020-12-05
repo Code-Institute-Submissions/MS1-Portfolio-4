@@ -199,6 +199,7 @@ padding-top: 50px;
 
 /*project*/
 
+
 .justify-content-center{
  padding: 5px;
 }
@@ -212,6 +213,8 @@ margin-bottom: 20px;
 margin-left: 9px;
 margin-right: 9px;
 color: black;
+
+
 
  }
 
@@ -243,26 +246,29 @@ color: rgb(136, 123, 123);
  padding: 3px;
   
 }
-
+/*for small devices*/
 @media only screen and (max-width: 600px) {
  .frase{  padding-top: 0px;
           padding-bottom: 30px;
           margin-left: 70px;
           
 }
-
 }
 
-
-@media screen and (min-width: 1070px) {
-.portfolio-project p {
+@media screen and (min-width: 1300px) {
+.portfolio-project  {
         padding-left: 65px;
         padding-right: 65px;
     }
 }
-@media screen and (min-width: 1370px) {
-.portfolio-project h4 {
-        padding-left: 72px;
-        padding-right: 65px;
+
+
+
+/*
+@media screen and (min-width: 1600px) {
+.justify-content-center {
+        padding-left: 2px;
+        padding-right: 5px;
     }
 }
+
