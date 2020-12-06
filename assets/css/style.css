@@ -163,8 +163,8 @@ textarea {
 	border-color: rgb(136, 123, 123);
 	color: rgb(136, 123, 123);
 }
-
-.row h4{
+/*contact Heading*/ 
+.row .text-center h4{
     padding-top: 25px;
 }
 
