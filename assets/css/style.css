@@ -196,10 +196,15 @@ padding-top: 50px;
 .col-sm-4 h6{
     color: black;
 }
-.col-sm-4{
-    
-}
 
+/*fix text breaking on landscape on small devices*/
+.col-sm-4 {
+   -moz-hyphens:auto;
+   -ms-hyphens:auto;
+   -webkit-hyphens:auto;
+   hyphens:auto;
+   word-wrap:break-word;
+}
 /*project*/
 
 
@@ -264,4 +269,5 @@ color: rgb(136, 123, 123);
         padding-right: 65px;
     }
 }
+
 
