@@ -30,8 +30,8 @@ designer's portfolio along with information about him, and a contact form.
     	2. I want to easily navigate through the website and find information about the designer and showcase of his work.
 
 	-   #### Returning Visitor
-	     As a returning visitor, I would like to find a way of contacting him. 
-	     As a returning visitor, I would like to follow him on social networks.
+	    1.  As a returning visitor, I would like to find a way of contacting him. 
+	    2.  As a returning visitor, I would like to follow him on social networks.
 
 
     -   ### Design
@@ -44,7 +44,8 @@ designer's portfolio along with information about him, and a contact form.
 
     -   #### Imagery
         -   All images were created and provided by Juan Pablo Tazzioli, in some cases we used 
-        large images that had inscriptions on them explaining each project, in other cases the images are self-explained.
+        large images that had inscriptions on them explaining each project, in other cases the images are self-explained
+        or there is a text above the image with a description of the project.
 
 
 #### Wireframes
@@ -73,6 +74,9 @@ Linkedin and Instagram.
 ## Features
 
 -   Responsive on all device sizes
+-   Contact Form
+-   Gallery with images and brief description ofthe projects 
+
 
 ## Technologies Used
 
@@ -152,7 +156,7 @@ The project was deployed to GitHub with the following steps:
 
 ## Bugs and Solutions
 
-1. I had issues with images on small and large devices, I addressed this issue using @media on my CSS, targeting the images and text 
+1. I had issues with images on small and large devices, I addressed this issue using media queries on my CSS, targeting the images and text 
 that did not adapt properly.
 2. Some images took to long to load so i had to reduce the size of the file
 3. I had issues centering the images, I used bootstrap d-flex justify-content-center to accomplish this.
