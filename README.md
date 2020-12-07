@@ -1,8 +1,9 @@
-# Juan Pablo Tazzioli  Portfolio 
+# Juan Pablo Tazzioli  Portfolio  
+
+Live Demo [here]( https://federvgh.github.io/MS1-Portfolio/index.html).
 
 <h2 align="center"><img src="assets/images/Wireframes/Responsive.png"></h2>
 
-Live Demo [here]( https://federvgh.github.io/MS1-Portfolio/index.html).
 
 ## Table of Contents
 > - [Overview](#overview)
