@@ -30,20 +30,21 @@ designer's portfolio along with information about him, and a contact form.
     	2. I want to easily navigate through the website and find information about the designer and showcase of his work.
 
 	-   #### Returning Visitor
-	     As a returning visitor, I would like to find a way of contacting him if I’m interested in working with him. 
-        
-    -   #### Frequent Visitor
-	     As a frequent visitor, I would like to follow him on social networks.
+	     As a returning visitor, I would like to find a way of contacting him. 
+	     As a returning visitor, I would like to follow him on social networks.
 
 
     -   ### Design
-    -   The Design was minimalistic, with small letters and grey colors, this was done with the idea of making the images stand out from the background.
+    -   The Design was minimalistic, with small letters and grey colors, this was done with the idea of 
+            making the images stand out from the background.
    
     -   #### Typography
-        -   The Poppins font is the main font used throughout the whole website with Sans Serif as the fallback font in the case for any reason the font isn't being imported into the site correctly.
+        -   The Poppins font is the main font used throughout the whole website with Sans Serif as the 
+        fallback font in the case for any reason the font isn't being imported into the site correctly.
 
     -   #### Imagery
-        -   All images were created and provided by Juan Pablo Tazzioli, in some cases we used large images that had inscriptions on them explaining each project, in other cases the images are self-explained.
+        -   All images were created and provided by Juan Pablo Tazzioli, in some cases we used 
+        large images that had inscriptions on them explaining each project, in other cases the images are self-explained.
 
 
 #### Wireframes
@@ -106,6 +107,11 @@ I used W3C HTML Validator and W3C CSS Validator Services to ensure there were no
 -   [W3C HTML Validation](https://validator.w3.org/) 
 -   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) 
 
+All links to external websites open in a new browser.
+
+Form validation is required to ensure the correct
+inputs are taken and that all fields are required.
+
 ### Testing User Stories from User Experience (UX) Section
 
 -   #### First Time Visitor Goals
@@ -114,13 +120,13 @@ I used W3C HTML Validator and W3C CSS Validator Services to ensure there were no
 
 2. Upon entering the site, users can see a photo of the designer along with a phrase that represents his work philosophy. Below the photo, you can find details about the designer like work experience, education, and awards that make it clear he is an industrial designer.
 
-3.	On the bottom there is an image with logos of the software the designer has experience using, the logo is easily recognized by fellow designers.
+3. On the bottom there is an image with logos of the software the designer has experience using, the logo is easily recognized by fellow designers.
 
 4. As a First Time Visitor, I want to easily be able to navigate throughout the site to find content.
 
-5.	The landing site has been designed to be simple and give an introduction of the designer. At the top of the page, there is a navigation bar, each link describes where it will lead you.
+5. The landing site has been designed to be simple and give an introduction of the designer. At the top of the page, there is a navigation bar, each link describes where it will lead you.
 
-6.	Once you go to the work section you can find the different projects, if you hover over the projects you can see a description with the title highlighted making it easy to click, which will take you to the site of that specific project, and you will be able to see more images and get more information about it.
+6. Once you go to the work section you can find the different projects, if you hover over the projects you can see a description with the title highlighted making it easy to click, which will take you to the site of that specific project, and you will be able to see more images and get more information about it.
 
 7. The user can also scroll to the bottom of any page on the site to locate social media links in the footer.
 
@@ -150,7 +156,7 @@ The project was deployed to GitHub with the following steps:
 that did not adapt properly.
 2. Some images took to long to load so i had to reduce the size of the file
 3. I had issues centering the images, I used bootstrap d-flex justify-content-center to accomplish this.
-4. I used Spell-checker to correct grammar errors.
+
 
 ## Credits
 
