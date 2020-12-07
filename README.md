@@ -124,7 +124,7 @@ I used W3C HTML Validator and W3C CSS Validator Services to ensure there were no
 
 7. The user can also scroll to the bottom of any page on the site to locate social media links in the footer.
 
-8. Contact form won't allow you to send a message if all the fields are properly filled.
+8. Contact form won't allow you to send a message if all the fields are not properly filled.
 
 ### Further Testing
 
@@ -150,7 +150,7 @@ The project was deployed to GitHub with the following steps:
 that did not adapt properly.
 2. Some images took to long to load so i had to reduce the size of the file
 3. I had issues centering the images, I used bootstrap d-flex justify-content-center to accomplish this.
-4. 
+4. I used Spell-checker to correct grammar errors.
 
 ## Credits
 
@@ -159,3 +159,5 @@ that did not adapt properly.
 -   I took inspiration and ideas from these websites https://kingstudio.ro/demos/mnml/index6.html and https://www.marioferrarini.com/  
 -   All content in the "works"  "Home" and “Project” sections were written by me.
 -   All images were created and provided by Juan Pablo Tazzioli.
+-   My Mentor for helping me when I was stuck.  
+-   The slack community for its extensive Q&A, I found most of the answers to my problems there.  
