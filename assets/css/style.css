@@ -71,6 +71,7 @@ padding-top: 25px;
   display: block;
   width: auto;
   height: auto;
+
 }
 .overlay {
     opacity: 0;
@@ -107,11 +108,14 @@ padding-top: 25px;
     color: white;
 }
 
-.text  p{
+.text  p {
       color: white;
       top: 10px;
-      
-      
+            
+}
+
+.text h4 {
+    color: white;
 }
 
 
