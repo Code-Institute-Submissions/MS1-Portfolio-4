@@ -57,7 +57,14 @@ Contact Page<br>
 ![Contact Page Wireframe](assets/images/Wireframes/contact1.jpg)<br>
 
 #### Modifications to original Design
-In the original design, what is now the “Home” section was the “About” section and  what is now the “works” section was the “home” section, but after evaluating some user experiences I realize the purpose of the website was not clear so I decided to change it. I did not change the Mockups because I consider them part of the original design, and I think every design changes according to needs.
+In the original design, what is now the “Home” section was the “About” section and  
+what is now the “works” section was the “home” section, but after evaluating some user
+experiences I realize the purpose of the website was not clear so I decided to change it. 
+I did not change the Mockups because I consider them part of the original design, and I 
+think every design changes according to needs. The social media links will not take you
+to the designer's social media site because they are not ready yet, as soon as i am provided
+with the links i will update it, for now it will only take you to the main paige of Facebook,
+Linkedin and Instagram. 
 
 
 
@@ -116,7 +123,7 @@ I used W3C HTML Validator and W3C CSS Validator Services to ensure there were no
 
 7. The user can also scroll to the bottom of any page on the site to locate  social media links in the footer.
 
-8. Contact form wont allow you to send a message if all the fields are proerply filled.
+8. Contact form wont allow you to send a message if all the fields are properly filled.
 
 ### Further Testing
 
