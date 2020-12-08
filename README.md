@@ -80,7 +80,7 @@ Linkedin and Instagram.
 
 ## Features left to implement
 
--   Social Media links not updated yet, the designer decided noy to link them yet because they are not ready
+-   Social Media links not updated yet, the designer decided not to link them yet because they are not ready
 -   More projects to be added on the "Works" section    
 
 ## Technologies Used
