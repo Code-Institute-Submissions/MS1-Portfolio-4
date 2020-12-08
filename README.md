@@ -75,9 +75,13 @@ Linkedin and Instagram.
 ## Features
 
 -   Responsive on all device sizes
--   Contact Form
+-   Form validation is required to ensure the correct inputs are taken and that all fields are required
 -   Gallery with images and brief description ofthe projects 
 
+## Features left to implement
+
+-   Social Media links not updated yet, the designer decided noy to link them yet because they are not ready
+-   More projects to be added on the "Works" section    
 
 ## Technologies Used
 
@@ -131,7 +135,8 @@ inputs are taken and that all fields are required.
 
 5. The landing site has been designed to be simple and give an introduction of the designer. At the top of the page, there is a navigation bar, each link describes where it will lead you.
 
-6. Once you go to the work section you can find the different projects, if you hover over the projects you can see a description with the title highlighted making it easy to click, which will take you to the site of that specific project, and you will be able to see more images and get more information about it.
+6. Once you go to the work section you can find the different projects, if you hover over the projects you can see a description and the option to click anywhere on the image 
+    which will take you to the site of that specific project, and you will be able to see more images and get more information about it.
 
 7. The user can also scroll to the bottom of any page on the site to locate social media links in the footer.
 
@@ -151,7 +156,7 @@ The project was deployed to GitHub with the following steps:
 1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
 2. Select “your profile” from the upper-right dropdown menu and select the proper repository.
 3. Select Settings and Scroll down until you locate the "GitHub Pages" Section.
-4. Under "Source", click the dropdown called "None" and select "Master Branch".
+4. Under "Source", click the dropdown and select "Master Branch".
 5. The page will automatically refresh.
 6. Scroll back down through the page to locate the now published site [link](https://federvgh.github.io/MS1-Portfolio/index.html) in the "GitHub Pages" section.
 
@@ -168,10 +173,10 @@ GitHub account to view and/or make changes without affecting the original reposi
 
 1. I Logged in to GitHub and located the [GitHub Repository](https://github.com/)
 2. Under the repository name, clicked "Clone".
-3. I clone the repository using HTTPS and Github Desktop
+3. I cloned the repository using HTTPS and Github Desktop
 4. On Github Desktop I changed the directory to the location where I wanted the cloned directory to be made.
 5. Clicked enter.
-6. It Downloaded a copy of my repository.
+6. It downloaded a copy of my repository.
 
 ## Bugs and Solutions
 
@@ -179,14 +184,20 @@ GitHub account to view and/or make changes without affecting the original reposi
 that did not adapt properly.
 2. Some images took to long to load so i had to reduce the size of the file
 3. I had issues centering the images, I used bootstrap d-flex justify-content-center to accomplish this.
+4. I had an issue with the hover effect, originally when you hovered over the image it will turn black and a clickable text would be
+hightlighted, but after some feedback from users i realized it was better to make the whole image clickable otherwise some users
+would not realize they could click on the project, So i modified the original hovver effect to turn the screen black with the text and makeit all 
+clickable.
+
 
 
 ## Credits
 
--   The Contact form was copied from Stefan Rusu – codepen
--   The hover effect on the images was taken from https://www.w3schools.com
+-   The Contact form was copied from Stefan Rusu – codepen, i only did some slight modifications. 
+-   The hover effect on the images was taken from https://www.w3schools.com  
 -   I took inspiration and ideas from these websites https://kingstudio.ro/demos/mnml/index6.html and https://www.marioferrarini.com/  
--   All content in the "works"  "Home" and “Project” sections were written by me.
+-   All content in the "Works"  "Home" and “Project” sections were written by me.
 -   All images were created and provided by Juan Pablo Tazzioli.
--   My Mentor for helping me when I was stuck.  
+-   My Mentor Antonio Rodriguez for helping me when I was stuck.  
 -   The slack community for its extensive Q&A, I found most of the answers to my problems there.  
+-   Jim Lynx for the "MS1 planning" session video that gave a good sarting point and resources to got me started.
