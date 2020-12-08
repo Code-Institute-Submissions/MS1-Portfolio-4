@@ -166,7 +166,7 @@ By forking the GitHub Repository we make a copy of the original repository on ou
 GitHub account to view and/or make changes without affecting the original repository by using the following steps...
 
 1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
-2. At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
+2. At the top of the Repository (not top of page) just above the "Settings" button on the menu, locate the "Fork" button.
 3. You should now have a copy of the original repository in your GitHub account.
 
 ### Making a Local Clone
@@ -182,22 +182,21 @@ GitHub account to view and/or make changes without affecting the original reposi
 
 1. I had issues with images on small and large devices, I addressed this issue using media queries on my CSS, targeting the images and text 
 that did not adapt properly.
-2. Some images took to long to load so i had to reduce the size of the file
+2. Some images took to long to load so I had to reduce the size of the file
 3. I had issues centering the images, I used bootstrap d-flex justify-content-center to accomplish this.
 4. I had an issue with the hover effect, originally when you hovered over the image it will turn black and a clickable text would be
-hightlighted, but after some feedback from users i realized it was better to make the whole image clickable otherwise some users
-would not realize they could click on the project. So i modified the original hover effect to turn the screen 
-black with the text and makeit all clickable.
+highlighted, but after some feedback from users, I realized it was better to make the whole image clickable otherwise some users
+would not realize they could click on the project. So i modified the original hover effect to turn the screen black with the text and make it all clickable.
 
 
 
 ## Credits
 
--   The Contact form was copied from Stefan Rusu – codepen, i only did some slight modifications. 
+-   The Contact form was copied from Stefan Rusu – codepen, I only did some slight modifications. 
 -   The hover effect on the images was taken from https://www.w3schools.com  
 -   I took inspiration and ideas from these websites https://kingstudio.ro/demos/mnml/index6.html and https://www.marioferrarini.com/  
 -   All content in the "Works"  "Home" and “Project” sections were written by me.
 -   All images were created and provided by Juan Pablo Tazzioli.
 -   My Mentor Antonio Rodriguez for helping me when I was stuck.  
 -   The slack community for its extensive Q&A, I found most of the answers to my problems there.  
--   Jim Lynx for the "MS1 planning" session video that gave a good sarting point and resources to got me started.
+-   Jim Lynx for the "MS1 planning" session video gave a good starting point and resources to got me started.
