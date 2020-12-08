@@ -155,6 +155,24 @@ The project was deployed to GitHub with the following steps:
 5. The page will automatically refresh.
 6. Scroll back down through the page to locate the now published site [link](https://federvgh.github.io/MS1-Portfolio/index.html) in the "GitHub Pages" section.
 
+### Forking the GitHub Repository
+
+By forking the GitHub Repository we make a copy of the original repository on our 
+GitHub account to view and/or make changes without affecting the original repository by using the following steps...
+
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
+2. At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
+3. You should now have a copy of the original repository in your GitHub account.
+
+### Making a Local Clone
+
+1. I Logged in to GitHub and located the [GitHub Repository](https://github.com/)
+2. Under the repository name, clicked "Clone".
+3. I clone the repository using HTTPS and Github Desktop
+4. On Github Desktop I changed the directory to the location where I wanted the cloned directory to be made.
+5. Clicked enter.
+6. It Downloaded a copy of my repository.
+
 ## Bugs and Solutions
 
 1. I had issues with images on small and large devices, I addressed this issue using media queries on my CSS, targeting the images and text 
