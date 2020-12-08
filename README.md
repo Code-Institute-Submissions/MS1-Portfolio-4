@@ -186,8 +186,8 @@ that did not adapt properly.
 3. I had issues centering the images, I used bootstrap d-flex justify-content-center to accomplish this.
 4. I had an issue with the hover effect, originally when you hovered over the image it will turn black and a clickable text would be
 hightlighted, but after some feedback from users i realized it was better to make the whole image clickable otherwise some users
-would not realize they could click on the project, So i modified the original hovver effect to turn the screen black with the text and makeit all 
-clickable.
+would not realize they could click on the project. So i modified the original hover effect to turn the screen 
+black with the text and makeit all clickable.
 
 
 
