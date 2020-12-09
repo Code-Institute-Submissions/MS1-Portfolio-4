@@ -273,4 +273,12 @@ color: rgb(136, 123, 123);
 .justify-content-center{
  padding: 1px;
 }
+.portfolio-project p {
+padding-top: 25px;
+
 }
+.navbar {
+padding:10px;
+
+}
+
