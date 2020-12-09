@@ -56,12 +56,7 @@ ul {
 }
 .row .home-img{
 
-padding-top: 25px;
-
-}
-
-.row .last-img{
- padding-bottom: 20px;
+padding-top: 30px;
 
 }
 
@@ -87,7 +82,7 @@ padding-top: 25px;
     z-index: 2;
     margin-left: 15px;
     margin-right: 15px;
-    margin-top: 25px;
+    margin-top: 30px;
 }
 
 .row .container-fluid:hover .overlay {
