@@ -27,12 +27,11 @@ designer's portfolio along with information about him, and a contact form.
 
     -   #### First Time and Returning Visitor
 
-        1. As a First Time Visitor I would like to understand the main purpose of the site. 
-        2. I want to understand this website shows the portfolio of an industrial designer.        
-    	3. I want to easily navigate through the website and find information about the designer and showcase of his work.
-        4. I want to be able to view the content on any device or browser.
-        5. As a returning visitor, I would like to find a way of contacting him. 
-	    6. I would like to follow him on social networks.
+        1. As a First Time Visitor I would like to understand the main purpose of the site.        
+    	2. I want to easily navigate through the website and find information about the designer and showcase of his work.
+        3. I want to be able to view the content on any device or browser.
+        4. As a returning visitor, I would like to find a way of contacting him. 
+	    5. I would like to follow him on social networks.
 
 
     -   ## Design
@@ -130,24 +129,29 @@ inputs are taken and that all fields are required.
 
 ### Testing User Stories from User Experience (UX) Section
 
--   #### First Time Visitor Goals
+-   #### First Time and Returning Visitor
 
-1.	As a First Time Visitor, I want to easily understand the main purpose of the site.
+1.	As a First Time Visitor, I want to easily understand the main purpose of the site and easily be able to navigate throughout the site to find content.
 
-2. Upon entering the site, users can see a photo of the designer along with a phrase that represents his work philosophy. Below the photo, you can find details about the designer like work experience, education, and awards that make it clear he is an industrial designer.
+    1. The logo on the upper left side shows the name and the words "Industrial Designer".
+    2. Upon entering the site, users can see a photo of the designer along with a phrase that represents his work philosophy.
+     Below the photo, you can find details about the designer like work experience, education, and awards that make it clear he 
+     is an industrial designer.
 
-3. On the bottom there is an image with logos of the software the designer has experience using, the logo is easily recognized by fellow designers.
+    3. On the bottom there is an image with logos of the software the designer has experience using, 
+    the logo is easily recognized by fellow designers.
 
-4. As a First Time Visitor, I want to easily be able to navigate throughout the site to find content.
+    4. The landing site has been designed to be simple and give an introduction of the designer. At the top of the page, there is a navigation bar, each link describes where it will lead you.
 
-5. The landing site has been designed to be simple and give an introduction of the designer. At the top of the page, there is a navigation bar, each link describes where it will lead you.
-
-6. Once you go to the work section you can find the different projects, if you hover over the projects you can see a description and the option to click anywhere on the image 
+    5. Once you go to the work section you can find the different projects, if you hover over the projects you can see a description and the option to click anywhere on the image 
     which will take you to the site of that specific project, and you will be able to see more images and get more information about it.
 
-7. The user can also scroll to the bottom of any page on the site to locate social media links in the footer.
+2.   As a returning visitor, I would like to find a way of contacting him and follow him on social networks.
 
-8. Contact form won't allow you to send a message if all the fields are not properly filled.
+        1.  To the right hand side of the footer the user can scroll to the bottom of any page on the site 
+    to locate social media links.
+
+        2. There is a contact form in the contact page (Backend not yet implemnted).
 
 ### Further Testing
 
@@ -167,14 +171,6 @@ The project was deployed to GitHub with the following steps:
 5. The page will automatically refresh.
 6. Scroll back down through the page to locate the now published site [link](https://federvgh.github.io/MS1-Portfolio/index.html) in the "GitHub Pages" section.
 
-### Forking the GitHub Repository
-
-By forking the GitHub Repository we make a copy of the original repository on our 
-GitHub account to view and/or make changes without affecting the original repository by using the following steps...
-
-1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
-2. At the top of the Repository (not top of page) just above the "Settings" button on the menu, locate the "Fork" button.
-3. You should now have a copy of the original repository in your GitHub account.
 
 ### Making a Local Clone
 
