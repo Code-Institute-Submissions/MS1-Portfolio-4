@@ -198,6 +198,7 @@ would not realize they could click on the project. So i modified the original ho
 -   The Contact form was copied from Stefan Rusu – codepen, I only did some slight modifications. 
 -   The hover effect on the images was taken from https://www.w3schools.com  
 -   I took inspiration and ideas from these websites https://kingstudio.ro/demos/mnml/index6.html and https://www.marioferrarini.com/  
+-   The navbar idea was taken from youtube channel "Fullyworld Web Tutorials"
 -   All images were created and provided by Juan Pablo Tazzioli.
 -   My Mentor Antonio Rodriguez for helping me when I was stuck.  
 -   The slack community for its extensive Q&A, I found most of the answers to my problems there.  
