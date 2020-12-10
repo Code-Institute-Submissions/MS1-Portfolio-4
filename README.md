@@ -25,23 +25,28 @@ designer's portfolio along with information about him, and a contact form.
 
 -   ### User stories
 
-    -   #### First Time Visitor
+    -   #### First Time and Returning Visitor
 
-        1. As a First Time Visitor, I want to understand this is a portfolio of an industrial designer.        
-    	2. I want to easily navigate through the website and find information about the designer and showcase of his work.
+        1. As a First Time Visitor i would like to understand the main purpose of the site. 
+        2. I want to understand this is a portfolio of an industrial designer.        
+    	3. I want to easily navigate through the website and find information about the designer and showcase of his work.
+        4. To be able to view the content on any device or browser.
+        5. As a returning visitor, I would like to find a way of contacting him. 
+	    6. I would like to follow him on social networks.
 
-	-   #### Returning Visitor
-	    1.  As a returning visitor, I would like to find a way of contacting him. 
-	    2.  As a returning visitor, I would like to follow him on social networks.
 
-
-    -   ### Design
-    -   The Design was minimalistic, with small letters and grey colors, this was done with the idea of 
+    -   ## Design
+        ### Structure
+    -   The site consists of 3 main pages, "Home", "Works" and "Projects", this last one will have, for now, 4 
+        subpages that will contain images of each specific project, this will be updated with new projects over time.
+        
+    -   The design is minimalistic, with small letters and grey colors, this was done with the idea of 
             making the images stand out from the background.
-   
+    -   I used grey colors so it would not drive the focus from the images, which are the most important part 
+        of the website.
     -   #### Typography
         -   The Poppins font is the main font used throughout the whole website with Sans Serif as the 
-        fallback font in the case for any reason the font isn't being imported into the site correctly.
+        the fallback font in the case for any reason the font isn't being imported into the site correctly.
 
     -   #### Imagery
         -   All images were created and provided by Juan Pablo Tazzioli, in some cases we used 
@@ -52,13 +57,13 @@ designer's portfolio along with information about him, and a contact form.
 #### Wireframes
 
 Home Page<br>
-![Home Page Wireframe](assets/images/Wireframes/Home.jpg)<br>
+[Home Page Wireframe](assets/images/Wireframes/Home.jpg)<br>
 Works  Page<br>
-![Works Page Wireframe](assets/images/Wireframes/Works.jpg)<br>
+[Works Page Wireframe](assets/images/Wireframes/Works.jpg)<br>
 Project Page<br>
-![Project Page Wireframe](assets/images/Wireframes/project1.jpg)<br>
+[Project Page Wireframe](assets/images/Wireframes/project1.jpg)<br>
 Contact Page<br>
-![Contact Page Wireframe](assets/images/Wireframes/contact1.jpg)<br>
+[Contact Page Wireframe](assets/images/Wireframes/contact1.jpg)<br>
 
 #### Modifications to original Design
 In the original design, what is now the “Home” section was the “About” section and  
@@ -67,7 +72,7 @@ experiences I realize the purpose of the website was not clear so I decided to c
 I did not change the Mockups because I consider them part of the original design, and I 
 think every design changes according to needs. The social media links will not take you
 to the designer's social media site because they are not ready yet, as soon as I am provided
-with the links, i will update it, for now, it will only take you to the main page of Facebook,
+with the links, I will update it, for now, it will only take you to the main page of Facebook,
 Linkedin and Instagram. 
 
 
@@ -76,12 +81,16 @@ Linkedin and Instagram.
 
 -   Responsive on all device sizes
 -   Form validation is required to ensure the correct inputs are taken and that all fields are required
--   Gallery with images and brief description ofthe projects 
+-   Gallery with images and a brief description of the projects    
 
 ## Features left to implement
 
 -   Social Media links not updated yet, the designer decided not to link them yet because they are not ready
 -   More projects to be added on the "Works" section    
+-   In the project section I'm considering  implementing a "previous" and "next" button to more easily navigate through
+    the projects.
+-   The backend of the contact form, this is outside the scope of my knowledge at this time.
+
 
 ## Technologies Used
 
@@ -187,7 +196,7 @@ that did not adapt properly.
 4. I had an issue with the hover effect, originally when you hovered over the image it will turn black and a clickable text would be
 highlighted, but after some feedback from users, I realized it was better to make the whole image clickable otherwise some users
 would not realize they could click on the project. So i modified the original hover effect to turn the screen black with the text and make it all clickable.
-
+5. The navigation bar looked too big on small devices i used media queries to make look smaller.
 
 
 ## Credits
@@ -195,7 +204,6 @@ would not realize they could click on the project. So i modified the original ho
 -   The Contact form was copied from Stefan Rusu – codepen, I only did some slight modifications. 
 -   The hover effect on the images was taken from https://www.w3schools.com  
 -   I took inspiration and ideas from these websites https://kingstudio.ro/demos/mnml/index6.html and https://www.marioferrarini.com/  
--   All content in the "Works"  "Home" and “Project” sections were written by me.
 -   All images were created and provided by Juan Pablo Tazzioli.
 -   My Mentor Antonio Rodriguez for helping me when I was stuck.  
 -   The slack community for its extensive Q&A, I found most of the answers to my problems there.  
