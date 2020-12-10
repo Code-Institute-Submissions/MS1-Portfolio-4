@@ -57,13 +57,13 @@ designer's portfolio along with information about him, and a contact form.
 #### Wireframes
 
 Home Page<br>
-[Home Page Wireframe](assets/images/Wireframes/Home.jpg)<br>
+[Home Page Wireframe](assets/images/Wireframes/Home1.jpg)<br>
 Works  Page<br>
-[Works Page Wireframe](assets/images/Wireframes/Works.jpg)<br>
+[Works Page Wireframe](assets/images/Wireframes/works1.jpg)<br>
 Project Page<br>
-[Project Page Wireframe](assets/images/Wireframes/project1.jpg)<br>
+[Project Page Wireframe](assets/images/Wireframes/Project2.jpg)<br>
 Contact Page<br>
-[Contact Page Wireframe](assets/images/Wireframes/contact1.jpg)<br>
+[Contact Page Wireframe](assets/images/Wireframes/Contact1.jpg)<br>
 
 #### Modifications to original Design
 In the original design, what is now the “Home” section was the “About” section and  
