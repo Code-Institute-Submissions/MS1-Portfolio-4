@@ -27,10 +27,10 @@ designer's portfolio along with information about him, and a contact form.
 
     -   #### First Time and Returning Visitor
 
-        1. As a First Time Visitor i would like to understand the main purpose of the site. 
-        2. I want to understand this is a portfolio of an industrial designer.        
+        1. As a First Time Visitor I would like to understand the main purpose of the site. 
+        2. I want to understand this website shows the portfolio of an industrial designer.        
     	3. I want to easily navigate through the website and find information about the designer and showcase of his work.
-        4. To be able to view the content on any device or browser.
+        4. I want to be able to view the content on any device or browser.
         5. As a returning visitor, I would like to find a way of contacting him. 
 	    6. I would like to follow him on social networks.
 
@@ -66,8 +66,7 @@ Contact Page<br>
 [Contact Page Wireframe](assets/images/Wireframes/Contact1.jpg)<br>
 
 #### Modifications to original Design
-In the original design, what is now the “Home” section was the “About” section and  
-what is now the “works” section was the “home” section, but after evaluating some user
+In the original design, what is now the “Home” section was the “About” section and  what is now the “works” section was the “home” section, but after evaluating some user
 experiences I realize the purpose of the website was not clear so I decided to change it. 
 I did not change the Mockups because I consider them part of the original design, and I 
 think every design changes according to needs. The social media links will not take you
@@ -80,8 +79,7 @@ Linkedin and Instagram.
 ## Features
 
 -   Responsive on all device sizes
--   Form validation is required to ensure the correct inputs are taken and that all fields are required
--   Gallery with images and a brief description of the projects    
+-   Form validation is required to ensure the correct inputs are taken and that all fields are required 
 
 ## Features left to implement
 
@@ -196,7 +194,7 @@ that did not adapt properly.
 4. I had an issue with the hover effect, originally when you hovered over the image it will turn black and a clickable text would be
 highlighted, but after some feedback from users, I realized it was better to make the whole image clickable otherwise some users
 would not realize they could click on the project. So i modified the original hover effect to turn the screen black with the text and make it all clickable.
-5. The navigation bar looked too big on small devices i used media queries to make look smaller.
+5. The navigation bar looked too big on small devices i used media queries to make it look smaller.
 
 
 ## Credits
